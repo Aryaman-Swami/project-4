@@ -500,3 +500,11 @@ object-fit: cover !important;
     vertical-align: middle;
     font-size:24px;
   }
+
+@media only screen and ( max-width:915px){
+    .simu-video{
+      height:400px !important;
+      width:100%;
+    }
+  
+  }
