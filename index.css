@@ -271,7 +271,7 @@
     }
 
     .card{
-      height:auto !important;
+      height:180px !important;
     }
 
     .team,.hq,.contact-us{
@@ -294,6 +294,12 @@
     .overlay{
       top:10% !important;
     }
+      .card img.image-hover ,.card:hover img.image-hover{
+      width:100%;
+      height:180px !important;
+      
+    }
+    
 
   }
 
